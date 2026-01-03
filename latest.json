@@ -1,12 +1,13 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "notes": "Minor fixes and improvements for version 1.2",
   "pub_date": "2026-01-03T10:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/TimiDaminov/orville-transactions-releases/releases/download/v1.2.1/transactions_1.2.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUFlOYVRpbi9wcEdsYTJJZityZXRiRHZHS1BHd0J3Q0w0bzdOS1FOMVhDQTVOK0hRUTBiR1lTc0I5U2dDNTNJV2crQVRudXFyUDdFRVd4dmF0bXNvVUhwUU5NeWtjRXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3MzkxNTIwCWZpbGU6dHJhbnNhY3Rpb25zXzEuMi4xX3g2NC1zZXR1cC5leGUKb3cvR0hIelVmcXpyOWpZTlRXOEhIRnlYYXc4L1NJczlkbDZlMWs3Z2J4RzRweVJXMm1QRW8vdVJrUEs4cGgxS2FVZUduL0xwRzFiNGVOQWhwUUE4Qnc9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUFlOYVRpbi9wcEpYVysyV3FGeW1mNUFXOW84cUJOUGtSQnZYb2Y5aEF5a1lVeXpIcVRoeUpVdWNTTEdRS05yTnl0MVdBZXF0K2EyZk40RFJLVVBoK0pNN2NNSGJYYlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NDc1MjkxCWZpbGU6dHJhbnNhY3Rpb25zXzEuMi4yX3g2NC1zZXR1cC5leGUKRHRFcjFLU2w5ZUt3eTFXRWVpNEJ1dm1mUGdDdnJnYmE0ZzhHWVZrd2JyVW91S0NTQ1AzbzFSVE8yZ2Z0NXN2ZFNLbUI1VkJKTG1aSkplYUxCNHZPQmc9PQo="
     }
   }
 }
+
 
